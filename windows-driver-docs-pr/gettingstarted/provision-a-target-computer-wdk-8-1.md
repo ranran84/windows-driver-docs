@@ -7,7 +7,7 @@ ms.assetid: A2615EE9-316E-4AE2-BBAA-B9E153090016
 # Provision a computer for driver deployment and testing (WDK 10)
 
 
-*Provisioning a target or test computer* is the process of configuring a computer for for automatic driver deployment, testing, and debugging. To provision a computer, use Microsoft Visual Studio.
+*Provisioning a target or test computer* is the process of configuring a computer for automatic driver deployment, testing, and debugging. To provision a computer, use Microsoft Visual Studio.
 
 A testing and debugging environment has two computers: the *host computer* and the *target computer*. The target computer is also called the *test computer*. You develop and build your driver in Visual Studio on the host computer. The debugger runs on the host computer and is available in the Visual Studio user interface. When you test and debug a driver, the driver runs on the target computer.
 
